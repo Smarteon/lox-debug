@@ -10,7 +10,7 @@ A Python utility for capturing and displaying real-time debug UDP logs from a Lo
 
 ## Requirements
 - Python 3.6+
-- `requests` library (`pip install requests`)
+- Use `pip install -r requirements.txt` to install the necessary modules (`requests`, `urllib3`)
 
 ## Usage
 
